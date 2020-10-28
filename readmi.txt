@@ -1,3 +1,5 @@
 # GIT PROBA PROIEKTUA 
 
 Hau Nagore Elduaienen proiektu bat da, GIT probatzeko.
+
+Kaixo!
